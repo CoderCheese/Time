@@ -1,3 +1,3 @@
 # Time
-A simple peice of code made by python that tells you the timi
+A simple peice of code made by python that tells you the
 Time 
